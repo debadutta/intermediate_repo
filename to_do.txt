@@ -9,4 +9,6 @@ mow lawn
 weed garden
 take out trash
 practice piano
-plan party
+
+pack car
+pitch tent

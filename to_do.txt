@@ -12,3 +12,6 @@ practice piano
 
 pack car
 pitch tent
+
+hike
+canoe

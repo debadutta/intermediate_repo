@@ -9,4 +9,16 @@ mow lawn
 weed garden
 take out trash
 practice piano
-plan party
+
+pack car
+pitch tent
+
+hike
+canoe
+
+rebase test1
+rebase test1
+rebase test3
+rebase test4
+rebase test5
+rebase test6

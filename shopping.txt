@@ -24,3 +24,4 @@ tomatoes
 pears
 dummy item for rebase test
 dummy item 2 for rebase test
+dummy item 3 for rebase test

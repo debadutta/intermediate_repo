@@ -23,3 +23,4 @@ coffee
 tomatoes
 pears
 dummy item for rebase test
+dummy item 2 for rebase test

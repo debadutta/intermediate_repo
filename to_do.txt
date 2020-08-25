@@ -20,3 +20,8 @@ rebase test1
 rebase test1
 rebase test3
 rebase test4
+<<<<<<< HEAD
+rebase test5
+rebase test6
+=======
+>>>>>>> master
